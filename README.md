@@ -20,7 +20,7 @@ Deskripsi Dari Situs Sejarah
 <li>Landing Page</li> <img src = "GAMBAR/landing.png" width = "600">
 <li>Peta Publik</li> <img src = "GAMBAR/map_publik.png" width = "600">
 <li>Dashboard</li> <img src = "GAMBAR/dashboard.png" width = "600">
-<li>Dashbard2</li> <img src = "GAMBAR/dashboard2.png" width = "600">
+<li>Dashboard2</li> <img src = "GAMBAR/dashboard2.png" width = "600">
 <li>Peta User</li> <img src = "GAMBAR/map_login.png" width = "600">
 <li>Tabel</li> <img src = "GAMBAR/tabel.png" width = "600">
 </ol>
