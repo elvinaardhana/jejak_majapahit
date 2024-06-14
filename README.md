@@ -9,22 +9,18 @@ Majapahit dikenal sebagai kerajaan bercorak Hindu-Buddha yang kaya akan budaya d
 Keruntuhan Majapahit disebabkan oleh berbagai faktor, termasuk konflik internal, serangan dari kerajaan-kerajaan lain, dan perubahan dalam jalur perdagangan maritim. Meskipun demikian, warisan Majapahit tetap berpengaruh dalam sejarah dan budaya Indonesia, terutama dalam konsep persatuan Nusantara
 
 <h3>Komponen pembangun produk</h2> 
-Database phpMyAdmin | HTML |CSS |PHP
+Database Laravel |PostgreSQL |PostGIS | HTML |CSS |PHP
 
 <h3>Sumber data:</h3>
 Lokasi Situs Sejarah
 Deskripsi Dari Situs Sejarah
 
 <h2>Tangkapan layar komponen penting produk:</h2>
-1. Landing Page
-![landing](https://github.com/elvinaardhana/jejak_majapahit/assets/121331274/c816f0c9-31a5-436b-a6a6-ac57abbfe5bf)
-2. Peta Publik
-![map_publik](https://github.com/elvinaardhana/jejak_majapahit/assets/121331274/502a2f1c-b9bf-4250-a5ca-625afad22ff1)
-3. Dashboard
-![dashboard](https://github.com/elvinaardhana/jejak_majapahit/assets/121331274/bdc98c17-8796-404e-9e23-d08bffc2fdb4)
-![dashboard2](https://github.com/elvinaardhana/jejak_majapahit/assets/121331274/1d13c4d3-a41e-4dfb-b33f-1dff49e90e37)
-4. Peta User
-![map_login](https://github.com/elvinaardhana/jejak_majapahit/assets/121331274/d4b89888-3299-4508-891f-dfa4ffad5047)
-5. Tabel
-![tabel](https://github.com/elvinaardhana/jejak_majapahit/assets/121331274/fa87026a-a90d-435e-9e96-4fbb47d489c7)
+<li>Landing Page</li> <img src = "GAMBAR/landing.png" width = "600">
+<li>Peta Publik</li> <img src = "GAMBAR/map_publik.png" width = "600">
+<li>Dashboard</li> <img src = "GAMBAR/dashboard.png" width = "600">
+<li>HDashbard2</li> <img src = "GAMBAR/dashboard2.png" width = "600">
+<li>Peta User</li> <img src = "GAMBAR/map_login.png" width = "600">
+<li>Tabel</li> <img src = "GAMBAR/tabel.png" width = "600">
+
 
