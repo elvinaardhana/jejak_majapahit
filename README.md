@@ -16,8 +16,7 @@ Lokasi Situs Sejarah
 Deskripsi Dari Situs Sejarah
 
 <h2>Tangkapan layar komponen penting produk:</h2>
-*Content Dashboard*
-![Tangkapan Layar 2](landing.png)
+
 <ol>
 <li>Landing Page</li> <img src = "landing.png" width = "600">
 <li>Peta Publik</li> <img src = "map_publik.png" width = "600">
